@@ -24,6 +24,9 @@
         { "name": "Streets"            , "url": "http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer" },
         { "name": "Terrain"            , "url": "http://server.arcgisonline.com/ArcGIS/rest/services/World_Terrain_Base/MapServer" }
     ],
+    "pluginFolders": [
+        "plugins"
+    ],
     "pluginOrder": [
         "layer_selector",
 		"flood_slr",
