@@ -1,4 +1,5 @@
 {
+	"frameworkVersion": "d84546bb",
     "plugins": [
 	{
       "repo": "multiSelect",
