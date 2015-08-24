@@ -119,7 +119,7 @@
 						"RFI|2100|High": [{"type":"dynamic","show":[69]}]
 						
 					},
-					"mainURL": "http://services.coastalresilience.org:6080/arcgis/rest/services/Ventura_County/Ventura_SLR/MapServer"
+					"mainURL": "http://services.coastalresilience.org/arcgis/rest/services/Ventura_County/Ventura_SLR/MapServer"
 				
 				}			
 			]

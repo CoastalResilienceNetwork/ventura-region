@@ -32,7 +32,7 @@
 	"floodSLR"
     ],
     "print": {
-        "printServerUrl": "http://services.coastalresilience.org:6080/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task", 
+        "printServerUrl": "http://services.coastalresilience.org/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task", 
         "customPrintTemplatePrefix": "Letter ANSI A GeositeFramework"
     },
     "colors": {
